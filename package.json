@@ -1,0 +1,27 @@
+{
+  "name": "@padhariyavishal/offset-pagination",
+  "version": "1.0.2",
+  "description": "Offset pagination package to help dynamically create an pagination of items array",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Offset",
+    "pagination",
+    "Offset pagination",
+    "paginate",
+    "paginated data",
+    "client side pagination"
+  ],
+  "author": "Vishal Padhariya",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  }
+}
